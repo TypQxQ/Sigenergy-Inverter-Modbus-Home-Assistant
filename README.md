@@ -1,2 +1,3 @@
 # !!! This project has moved !!!
-https://github.com/TypQxQ/Sigenergy-Home-Assistant-Integration
+
+https://github.com/TypQxQ/Sigenergy-Local-Modbus
